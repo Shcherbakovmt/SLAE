@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <stdexcept>
 #include <iomanip>
 
 template<typename T>
